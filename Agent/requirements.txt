@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+websockets
+langchain
+langchain-core
+langchain-openai
+openai
+python-dotenv  # For handling Word documents
+regex
+pathlib
+ast
+asyncio
